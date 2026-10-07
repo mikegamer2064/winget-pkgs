@@ -10,6 +10,6 @@ InstallModes:
 Installers:
   - Architecture: x64
     InstallerUrl: https://github.com/synapplay-official/synapplay/releases/download/1.0/Synapplay-windows-1.0-x64-setup.exe
-    InstallerSha256: 0E96AEE56E8C2564AB41166F6F479254BEC7F152C80F7735ABE694C5841D2F06
+    InstallerSha256: 209B350D1ED3465A733A3D1A9B411605FC54FE9C6B7FFADFFF2B26E57DE4FFFE
 ManifestType: installer
 ManifestVersion: 1.6.0
